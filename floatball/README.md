@@ -1,3 +1,3 @@
 # 效果示意图
 
-![](floatball/floatball/readme.gif)
+![](https://lxh-static.oss-cn-shenzhen.aliyuncs.com/img/readme.gif)
