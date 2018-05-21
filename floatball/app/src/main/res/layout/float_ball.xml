@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:id="@+id/rootView"
+    android:layout_height="wrap_content">
+
+
+    <RelativeLayout
+        android:id="@+id/float_ball_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/float_ball_logo"
+            android:layout_width="26dp"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="26dp" />
+
+        <!--<ImageView-->
+            <!--android:id="@+id/float_ball"-->
+            <!--android:layout_width="26dp"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:visibility="visible"-->
+            <!--android:src="@drawable/ball_ic_logo_normal"-->
+            <!--android:layout_height="26dp" />-->
+    </RelativeLayout>
+
+</LinearLayout>

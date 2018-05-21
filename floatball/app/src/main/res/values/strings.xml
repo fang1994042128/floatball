@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">floatball</string>
+    <string name="miui_location_hint_button">现在设置</string>
+    <string name="miui_confirm_btn">确定</string>
+    <string name="miui_display_notifications">下滑到底部，找到「显示悬浮窗」，点击并允许</string>
+</resources>
