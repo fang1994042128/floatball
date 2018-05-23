@@ -93,7 +93,11 @@ public class ArcMenuView extends LinearLayout {
         }
     }
 
-
+    /**
+     * 添加menuItemViw
+     * @param id
+     * @param context
+     */
     public void addMenuView(@DrawableRes int id, Context context) {
         CircleImageView imageView = new CircleImageView(context);
         imageView.setImageResource(id);
